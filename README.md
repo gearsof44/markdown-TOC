@@ -1,4 +1,6 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+# Guide d'installation d'un environnement de développement Taiga sous Debian 8
+
+***Table of Contents***
 
 - [I- Installation Dépendances :](#)
 - [II- Installation de postgresql :](#)
